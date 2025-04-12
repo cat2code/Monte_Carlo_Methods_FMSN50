@@ -4,7 +4,7 @@ A course in Monte Carlo Methods for statistical inference at LTH [course code FM
 
 **Public content**
 * This repo contains what I feel comfortable to show publically.
-* Hand ins reports 1-3. Done in collaboration with Kaster Nordenram.
+* Hand ins reports 1-3. Done in collaboration with Kasper Nordenram.
 * Oral examiniation instructions with notes + personal written preparation.
 
 **Private content**
